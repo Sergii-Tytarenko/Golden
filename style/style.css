@@ -955,7 +955,7 @@ body {
         top: 0;
         left: 0;
         height: 50px; /* padding for nav */
-        padding: 10px;
+        padding: 12px;
     }
 
     .header:before {
