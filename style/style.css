@@ -1169,7 +1169,8 @@ body {
     .contact-btn {
         width: 100%;
     }
-
+    .contact-btn {
+     padding: 16px 0;
 }
 
 
