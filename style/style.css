@@ -966,10 +966,6 @@ body {
         z-index: 3;
     }
     
-    .header-logo {
-        align-self: flex-end;
-    }
- 
     .nav {
         position: fixed;
         top: -200%;
@@ -1178,10 +1174,6 @@ body {
 /* Max-width 575px
 ===================== */
 @media (max-width: 575px) {
- 
-    .body {
-        font-size: 12px;
-    }
 
     /* Home
     ===================== */
