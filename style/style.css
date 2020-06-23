@@ -185,6 +185,7 @@ body {
 }
 
 .header-logo {
+    margin-top: -8px;
     font: 26px 'Wisdom Script', sans-serif;
     color: #fed136;
     letter-spacing: 1.3px;
