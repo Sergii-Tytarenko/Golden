@@ -182,7 +182,6 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 41px;
 }
 
 .header-logo {
@@ -954,8 +953,7 @@ body {
         position: fixed;
         top: 0;
         left: 0;
-        height: 51px; 
-        padding: 5px;
+        padding: 10px;
     }
 
     .header:before {
@@ -975,7 +973,7 @@ body {
         left: 0;
         width: 100%;
         height: 100%;
-        padding-top: 51px;
+        padding-top: 46px;
 
         flex-direction: column;
         align-items: center;
