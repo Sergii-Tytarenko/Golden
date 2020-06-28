@@ -1032,18 +1032,7 @@ body {
         margin-bottom: 20px;
     }
 
-    .services-icon-box {
-        flex: 0 0 50px;
-        width: 50px;
-        margin-bottom: 15px;
-    }
-
-    .services-icon {
-        width: 30px;
-        height: 30px;
-    }
-
-
+  
     /* Portfolio
     ===================== */
     .portfolio {
