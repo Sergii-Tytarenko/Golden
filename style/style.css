@@ -185,6 +185,7 @@ body {
 }
 
 .header-logo {
+    margin-top: -8px;
     font: 26px 'Wisdom Script', sans-serif;
     color: #fed136;
     letter-spacing: 1.3px;
@@ -1186,20 +1187,7 @@ body {
         margin-bottom: 10px;
     }
  
-    .services-icon-box {
-        flex: 0 0 50px;
-        width: 50px;
-        margin-bottom: 15px;
-    }
-
-    .services-icon {
-        width: 30px;
-        height: 30px;
-    }
-
-
-
-
+ 
     /* About 
     =====================*/
     .item-inner,
@@ -1293,5 +1281,17 @@ body {
         padding: 10px 16px;
     }
     
+    /* Services
+    ===================== */
+    .services-icon-box {
+        flex: 0 0 50px;
+        width: 50px;
+        margin-bottom: 15px;
+    }
+
+    .services-icon {
+        width: 30px;
+        height: 30px;
+    }
 
 }
