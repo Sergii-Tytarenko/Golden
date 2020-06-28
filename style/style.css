@@ -1031,6 +1031,10 @@ body {
     .services-titles {
         margin-bottom: 20px;
     }
+ 
+    .services-text {
+        font-size: 14px;
+   }
 
   
     /* Portfolio
@@ -1181,6 +1185,19 @@ body {
     .services-item:not(:last-child) {
         margin-bottom: 10px;
     }
+ 
+    .services-icon-box {
+        flex: 0 0 50px;
+        width: 50px;
+        margin-bottom: 15px;
+    }
+
+    .services-icon {
+        width: 30px;
+        height: 30px;
+    }
+
+
 
 
     /* About 
